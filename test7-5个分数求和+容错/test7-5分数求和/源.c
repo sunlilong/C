@@ -7,7 +7,7 @@ int main()
 	{
 		do
 		{
-			printf("ÇëÊäÈë·ÖÊı£º");
+			printf("è¯·è¾“å…¥ä¸€ä¸ªæ•°ï¼š");
 			scanf("%d", &a);
 		} while (a < 0 || a>100);
 		sum += a;
