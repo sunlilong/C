@@ -1,3 +1,0 @@
-﻿  源.c
-E:\C\MSVC\test15-猜数字游戏\test15-猜数字游戏\源.c(54,22): warning C4013: “time”未定义；假设外部返回 int
-  test15-猜数字游戏.vcxproj -> E:\C\MSVC\test15-猜数字游戏\x64\Debug\test15-猜数字游戏.exe
